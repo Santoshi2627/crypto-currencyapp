@@ -1,1 +1,1 @@
-# crypto-currencyapp
+# cryptocurrency-app
